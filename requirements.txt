@@ -1,1 +1,6 @@
 pystyle
+requests
+beautifulsoup4
+mechanize
+rich
+lxml
