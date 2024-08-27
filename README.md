@@ -25,7 +25,13 @@ To use the Python Encryp and Decrypt Tool, follow these steps:
     ```bash
     cd Python-Encrypt-Decrypt-Tool
 
-3. **To encrypt a file, use the following command:**
+ 3.  **Installing Dependencies:**
+   To install the dependencies listed in your requirements.txt file, use:
+       ```bash
+      pip install -r requirements.txt
+
+
+4. **To encrypt a file, use the following command:**
      ```bash
     python Encrypt-Python-file.py
 
